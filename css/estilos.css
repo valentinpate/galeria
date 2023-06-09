@@ -202,7 +202,7 @@ a{
     #fullimgEight img{
         width:79.5%;
     }
-     #fullimgNine img{
+    #fullimgNine img{
         width:72%;
     }
     #fullimgTen img{
@@ -232,9 +232,27 @@ a{
         padding-top:1em;
         width:76%;
     }
-    #fullimgSix img{
+    #fullimgSix img, #fullimgThirteen img{
         padding-top:3em;
         width:78.5%;
+    }
+    #fullimgSeven img{
+        padding-top:10.2em;
+        width:74%;
+    }
+    #fullimgEight img{
+        padding-top:16em;
+        width:72%;
+    }
+    #fullimgNine img{
+        padding-top:14.5em;
+    }
+    #fullimgTen img{
+        width:75%;
+    }
+    #fullimgEleven img, #fullimgFourteen img{
+        padding-top:6em;
+        width:72%;
     }
     .bi-chevron-left, .bi-chevron-right{
         top:16em;

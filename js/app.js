@@ -754,4 +754,3 @@ closebtnTwelve.addEventListener("click",closedFunction)
 closebtnThirteen.addEventListener("click",closedFunction)
 closebtnFourteen.addEventListener("click",closedFunction)
 closebtnFifteen.addEventListener("click",closedFunction)
-
