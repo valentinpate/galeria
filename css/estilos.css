@@ -120,7 +120,7 @@ a{
 }
 
 .image{
-    margin:1em 2em;
+    margin:1em 3em;
     display:flex;
     flex-direction:column;
     align-items:center;
