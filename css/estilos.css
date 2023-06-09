@@ -216,6 +216,45 @@ a{
     }
 }
 
+@media(max-width:1024px){
+    #fullimgOne img, #fullimgTwo img, #fullimgThree img{
+        padding-top:3em;
+    }
+    #fullimgFour img{
+        padding-top:4.5em;
+        width:82.5%;
+    }
+    #fullimgFive img, #fullimgTwelve img, #fullimgFifteen img{
+        width:42%;
+    }
+    #fullimgSix img{
+        width:44.5%;
+    }
+    #fullimgSeven img{
+        width:62%;
+    }
+    #fullimgEight img{
+        padding-top:2.7em;
+        width:80%;
+    }
+    #fullimgNine img{
+        padding-top:1.5em;
+        width:79%;
+    }
+    #fullimgTen img{
+        width:40%;
+    }
+    #fullimgEleven img, #fullimgFourteen img{
+        width:50.5%;
+    }
+    #fullimgThirteen img{
+        width:47.5%;
+    }
+    .bi-chevron-left, .bi-chevron-right{
+        top:12em;
+    }
+}
+
 @media(max-width:768px){
     .img-container-1{
         flex-direction:column;
