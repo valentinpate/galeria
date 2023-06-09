@@ -297,3 +297,32 @@ a{
         top:16em;
     }
 }
+
+@media(max-width:400px){
+    #fullimgFive img, #fullimgTwelve img, #fullimgFifteen img{
+        padding-top:7.2em;
+        width:85%;
+    }
+    #fullimgSix img, #fullimgThirteen img{
+        padding-top:8em;
+        width:86%;
+    }
+    #fullimgSeven img{
+        padding-top:12em;
+        width:82%;
+    }
+    #fullimgNine img{
+        padding-top:15em;
+    }
+    #fullimgTen img{
+        padding-top:7em;
+        width:80%;
+    }
+    #fullimgEleven img, #fullimgFourteen img{
+        padding-top:11em;
+        width:76%;
+    }
+    .bi-chevron-left, .bi-chevron-right{
+        top:2em;
+    }
+}
