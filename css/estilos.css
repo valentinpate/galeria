@@ -250,6 +250,9 @@ a{
     #fullimgThirteen img{
         width:47.5%;
     }
+    .image{
+        margin:1em 2em;
+    }
     .bi-chevron-left, .bi-chevron-right{
         top:12em;
     }
@@ -292,6 +295,9 @@ a{
     #fullimgEleven img, #fullimgFourteen img{
         padding-top:6em;
         width:72%;
+    }
+    .image{
+        margin: 1em 3em;
     }
     .bi-chevron-left, .bi-chevron-right{
         top:16em;
